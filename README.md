@@ -59,6 +59,6 @@ It helps you avoid burnout, maintain consistency, and improve focus throughout t
 
 ## 🔗Live Demo
 
-<a href="file:///C:/Users/lenovo/Documents/POMODORO-TIMER/index.html" title = "POMODORO TIMER WEBSITE"</a>
+<a href="file:///C:/Users/lenovo/Documents/POMODORO-TIMER/index.html" title = "POMODORO TIMER WEBSITE"></a>
 
 
