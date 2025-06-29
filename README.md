@@ -57,6 +57,10 @@ The Pomodoro Timer Website is a simple and efficient productivity tool designed 
 
 It helps you avoid burnout, maintain consistency, and improve focus throughout the day.
 
+## 🙌 Acknowledgements
+
+* **Netlify-** for providing fast and reliable website hosting.
+
 ## 🔗Live Demo
 
 <a href="https://frabjous-cobbler-b4364b.netlify.app/" title = "POMODORO TIMER WEBSITE">POMODORO TIMER WEBSITE</a>
