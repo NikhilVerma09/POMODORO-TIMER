@@ -23,7 +23,7 @@ The Pomodoro Timer Website is a simple and efficient productivity tool designed 
 
   ## 🚀 How to Use
 
- **1.**  Open the index.html file in any modern browser.
+ **1.**  Open the **index.html**  file in any modern browser.
 
 **2.**  Click “Start” to begin the 25-minute Pomodoro session.
 
@@ -59,6 +59,6 @@ It helps you avoid burnout, maintain consistency, and improve focus throughout t
 
 ## 🔗Live Demo
 
-<a href="file:///C:/Users/lenovo/Documents/POMODORO-TIMER/index.html" title = "POMODORO TIMER WEBSITE" </a>
+<a href="file:///C:/Users/lenovo/Documents/POMODORO-TIMER/index.html" title = "POMODORO TIMER WEBSITE"</a>
 
 
