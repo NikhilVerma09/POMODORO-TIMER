@@ -1,5 +1,5 @@
-let workDuration = 2 * 60; // 25 minutes
-let breakDuration = 1 * 60; // 5 minutes
+let workDuration = 25 * 60; // 25 minutes
+let breakDuration = 5 * 60; // 5 minutes
 let isRunning = false;
 let isWorkSession = true;
 let timeLeft = workDuration;
