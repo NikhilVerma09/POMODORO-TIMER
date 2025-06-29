@@ -29,7 +29,7 @@ The Pomodoro Timer Website is a simple and efficient productivity tool designed 
 
 **3.**  Click “Pause” to stop the timer temporarily.
 
-**.4**  Click “Reset” to restart the timer from the beginning.
+**4.**  Click “Reset” to restart the timer from the beginning.
 
 **5.**  Once the session ends, a sound alert will notify you and automatically switch to a break.
 
